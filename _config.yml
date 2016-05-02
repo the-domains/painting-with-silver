@@ -1,0 +1,28 @@
+name: Painting With Silver
+favicon: null
+layout_spectrum: 0.006384461186826229
+typography_spectrum: 0.03014337201602757
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.35579724004492164
+  lightness: 0.8872844772413373
+  saturation: 0.8162303979042917
+  rhythmicContrast: 0.7473986446857452
+purpose: []
