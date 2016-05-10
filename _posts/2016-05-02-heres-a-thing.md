@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I've been wondering where to publish all the work I do in the analogue realm. You know – photos taken on film, prints made on paper, words typed on a page. "
-datePublished: '2016-05-10T20:19:52.017Z'
-dateModified: '2016-05-10T20:18:53.859Z'
+datePublished: '2016-05-10T20:28:54.856Z'
+dateModified: '2016-05-10T20:19:58.986Z'
 title: "Here's a thing..."
 author: []
 sourcePath: _posts/2016-05-02-heres-a-thing.md
