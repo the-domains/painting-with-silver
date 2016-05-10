@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Painting With Silver]]></title>
         <description><![CDATA[Painting With Silver]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/painting-with-silver/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 20:26:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 20:19:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/painting-with-silver/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Here's a thing...]]></title>
             <description><![CDATA[<article><h1>Here's a thing...</h1><p>I've been wondering where to publish all the work I do in the analogue realm. You know – photos taken on film, prints made on paper, words typed on a page. </p></article>]]></description>
-            <link>undefinedheres-a-thing/index.html</link>
+            <link>https://thegrid.ai/painting-with-silver/heres-a-thing/index.html</link>
             <guid isPermaLink="false">f8f881d1-7a63-4ad7-9809-3dfe1578eba6</guid>
-            <pubDate>Mon, 02 May 2016 20:25:26 GMT</pubDate>
+            <pubDate>Tue, 10 May 2016 20:19:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
