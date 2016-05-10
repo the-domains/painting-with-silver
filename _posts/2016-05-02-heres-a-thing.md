@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I've been wondering where to publish all the work I do in the analogue realm. You know – photos taken on film, prints made on paper, words typed on a page. "
-datePublished: '2016-05-02T20:25:26.951Z'
-dateModified: '2016-05-02T20:24:50.178Z'
+datePublished: '2016-05-10T20:19:52.017Z'
+dateModified: '2016-05-10T20:18:53.859Z'
 title: "Here's a thing..."
 author: []
+sourcePath: _posts/2016-05-02-heres-a-thing.md
 authors: []
 publisher:
   name: null
@@ -16,17 +17,15 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-heres-a-thing.md
-published: true
 url: heres-a-thing/index.html
 _type: Article
 
 ---
 # Here's a thing...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81dc8903-4bc3-4415-94c9-40a65c8f8a61.jpg)
 
 I've been wondering where to publish all the work I do in the analogue realm. You know -- photos taken on film, prints made on paper, words typed on a page. 
 
 Ink, chemicals and smells.
 
 Then, as if by magic, the shopkeeper appeared
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81dc8903-4bc3-4415-94c9-40a65c8f8a61.jpg)
